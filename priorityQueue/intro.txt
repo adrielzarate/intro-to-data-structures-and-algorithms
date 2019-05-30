@@ -1,0 +1,2 @@
+Priority Queue JavaScript Data Structure
+In this lesson, you'll learn how we can combine several queues to create a new data structure: a priority queue. A priority queue allows the user to add items to the queue that are deemed to be high priority, and get moved ahead in the line. This added complexity is simple to achieve and is a good example of how we can build up complexity through the use of data structures.

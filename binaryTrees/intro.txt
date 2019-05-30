@@ -1,0 +1,2 @@
+Build a Binary Tree in JavaScript and Several Traversal Algorithms
+A binary tree is a tree where each node may only have up to two children. These children are stored on the `left` and `right` properties of each node. When traversing a binary tree, we have three common traversal algorithms: in order, pre-order, and post-order. In this lesson, we write each of these algorithms and explore their differences.

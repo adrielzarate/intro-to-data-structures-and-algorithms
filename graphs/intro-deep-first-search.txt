@@ -1,0 +1,2 @@
+Write a Depth First Search Algorithm for Graphs in JavaScript
+Depth first search is a graph search algorithm that starts at one node and uses recursion to travel as deeply down a path of neighboring nodes as possible, before coming back up and trying other paths.

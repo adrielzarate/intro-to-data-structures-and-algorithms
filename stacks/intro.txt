@@ -1,0 +1,2 @@
+Stack Data Structure in JavaScript
+In this lesson, you'll learn how to create a stack data structure. A stack is a collection of items that obeys the principle of "last in, first out". Like a stack of plates, we can only access the topmost plate at any time. We must remove that plate before we get down to other plates. This is useful for function calls, hence why it's called a "call stack" in JavaScript.

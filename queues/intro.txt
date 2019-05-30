@@ -1,0 +1,2 @@
+Queue Data Structure in JavaScript
+In this lesson, you will learn how to create a queue in JavaScript. A queue is a first-in, first-out data structure (FIFO). We can only remove items from the queue one at a time, and must remove items in the same sequence as they were placed in the queue.

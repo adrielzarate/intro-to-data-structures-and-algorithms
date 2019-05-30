@@ -1,0 +1,3 @@
+Breadth First JavaScript Search Algorithm for Graphs
+Breadth first search is a graph search algorithm that starts at one node and visits neighboring nodes as widely as possible before going further down any other path. This algorithm requires the use of a queue to keep track of which nodes to visit, so it might be worth your time to brush up on that data structure before watching this lesson.
+
